@@ -1,16 +1,13 @@
-# cookbook
+While learning to flutter, we wrote this project together with our teacher. (teacher : Maximilian Schwarzmüller)
 
-A new Flutter project.
+It is also written in understandable, tidy clean codes to improve ourselves in flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_1669818445](https://user-images.githubusercontent.com/100241189/204821875-f80f5f84-4079-4ac9-b24e-e55108eb2d39.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1669818447](https://user-images.githubusercontent.com/100241189/204821879-e4a5827d-f68f-4fb7-971c-d0c9823f52ee.png)
+![Screenshot_1669818454](https://user-images.githubusercontent.com/100241189/204821882-83a8a745-0551-441d-9bc5-68d247f7e352.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1669818459](https://user-images.githubusercontent.com/100241189/204821848-27d217d8-9ded-412b-bd66-96735dad7e55.png)
+![Screenshot_1669818437](https://user-images.githubusercontent.com/100241189/204821868-9ed87cbc-ae17-4846-8469-cbdaf68336a4.png)
